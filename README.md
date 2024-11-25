@@ -1,4 +1,4 @@
-# GIMP｡°✩
+# GIMP ✩
 Imagens desenvolvidas a partir do software de edição GIMP
 
 PROJETOS:
